@@ -5,15 +5,15 @@
   "categories": [
     {
       "id": 1,
-      "category": "Dhaki"
+      "name": "Dhaki"
     },
     {
       "id": 2,
-      "category": "Thakur"
+      "name": "Thakur"
     },
     {
       "id": 3,
-      "category": "Tamal Electric"
+      "name": "Tamal Electric"
     }
   ]
 }
