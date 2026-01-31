@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T17:32:00"
+        "time": "2026-01-31T17:44:00"
     },
     "expenses": [
         {
@@ -11,7 +11,7 @@
             "bookingAmount": "200",
             "otherContent": "all done",
             "paymentStatus": "Full Amount Paid",
-            "createdAt": "31 01 2026"
+            "createdAt": "31/01/2026"
         },
         {
             "id": 2,
@@ -21,7 +21,7 @@
             "bookingAmount": "101",
             "otherContent": "ager year er sathe daam check korte hobe",
             "paymentStatus": "Booking Amount Paid",
-            "createdAt": "28 01 2026"
+            "createdAt": "28/01/2026"
         },
         {
             "id": 3,
@@ -31,7 +31,7 @@
             "bookingAmount": "1000",
             "otherContent": "1000 taka niyechey electric permission",
             "paymentStatus": "Full Amount Paid",
-            "createdAt": "30 01 2026"
+            "createdAt": "30/01/2026"
         },
         {
             "id": 4,
@@ -41,7 +41,7 @@
             "bookingAmount": "",
             "otherContent": "",
             "paymentStatus": "No Paid",
-            "createdAt": "30 01 2026"
+            "createdAt": "30/01/2026"
         }
     ]
 }
