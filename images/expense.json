@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T16:41:39"
+        "time": "2026-01-31T16:43:24"
     },
     "expenses": [
         {
@@ -18,6 +18,14 @@
             "otherContent": "",
             "paymentStatus": "No Paid",
             "createdAt": "30 01 2026"
+        },
+        {
+            "category": "Tamal Electric",
+            "totalAmount": 3000,
+            "bookingAmount": 3000,
+            "otherContent": "sob done",
+            "paymentStatus": "Full Amount Paid",
+            "createdAt": "28 01 2026"
         }
     ]
 }
