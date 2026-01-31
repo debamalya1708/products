@@ -1,6 +1,47 @@
 {
-  "syncTime": {
-        "time": "2026-01-31T13:42:00"
+    "syncTime": {
+        "time": "2026-01-31T17:32:00"
     },
-  "expenses": [
-    {}]}
+    "expenses": [
+        {
+            "id": 1,
+            "category": "Bhusi Maal dokan",
+            "subCategory": "chini 200 gm",
+            "totalAmount": "200",
+            "bookingAmount": "200",
+            "otherContent": "all done",
+            "paymentStatus": "Full Amount Paid",
+            "createdAt": "31 01 2026"
+        },
+        {
+            "id": 2,
+            "category": "Thakur",
+            "subCategory": "",
+            "totalAmount": "6000",
+            "bookingAmount": "101",
+            "otherContent": "ager year er sathe daam check korte hobe",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "28 01 2026"
+        },
+        {
+            "id": 3,
+            "category": "Tamal Electric",
+            "subCategory": "electric permission",
+            "totalAmount": "1000",
+            "bookingAmount": "1000",
+            "otherContent": "1000 taka niyechey electric permission",
+            "paymentStatus": "Full Amount Paid",
+            "createdAt": "30 01 2026"
+        },
+        {
+            "id": 4,
+            "category": "Tamal Electric",
+            "subCategory": "",
+            "totalAmount": "3000",
+            "bookingAmount": "",
+            "otherContent": "",
+            "paymentStatus": "No Paid",
+            "createdAt": "30 01 2026"
+        }
+    ]
+}
