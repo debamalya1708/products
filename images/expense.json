@@ -3,15 +3,5 @@
         "time": "2026-01-31T17:54:05"
     },
     "expenses": [
-        {
-            "id": 1,
-            "category": "Dhaki",
-            "subCategory": "abc",
-            "totalAmount": "6000",
-            "bookingAmount": "200",
-            "otherContent": "bsbns",
-            "paymentStatus": "Booking Amount Paid",
-            "createdAt": "31\/01\/2026"
-        }
     ]
 }
