@@ -1,0 +1,23 @@
+{
+    "syncTime": {
+        "time": "2026-01-31T16:41:07"
+    },
+    "expenses": [
+        {
+            "category": "Dhaki",
+            "totalAmount": 5000,
+            "bookingAmount": 200,
+            "otherContent": "6 jon asbe",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "31 01 2026"
+        },
+        {
+            "category": "Bhusi Maal dokan",
+            "totalAmount": 30000,
+            "bookingAmount": 0,
+            "otherContent": "",
+            "paymentStatus": "No Paid",
+            "createdAt": "30 01 2026"
+        }
+    ]
+}
