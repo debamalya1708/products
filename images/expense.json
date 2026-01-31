@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T18:56:50"
+        "time": "2026-01-31T19:03:06"
     },
     "expenses": [
         {
@@ -42,6 +42,16 @@
             "otherContent": "hsbs",
             "paymentStatus": "Booking Amount Paid",
             "createdAt": "1769865995979"
+        },
+        {
+            "id": 6,
+            "category": "Dhaki",
+            "subCategory": "shhshs",
+            "totalAmount": "64994",
+            "bookingAmount": "974",
+            "otherContent": "hsh",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "1769866370855"
         }
     ]
 }
