@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T18:05:30"
+        "time": "2026-01-31T18:27:10"
     },
     "expenses": [
         {
@@ -12,6 +12,16 @@
             "otherContent": "bzbbz",
             "paymentStatus": "Booking Amount Paid",
             "createdAt": "1769862749145"
+        },
+        {
+            "id": 2,
+            "category": "Dhaki",
+            "subCategory": "bdbeh",
+            "totalAmount": "6000",
+            "bookingAmount": "99",
+            "otherContent": "vdhe",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "1769864130747"
         }
     ]
 }
