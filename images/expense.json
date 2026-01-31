@@ -1,7 +1,17 @@
 {
     "syncTime": {
-        "time": "2026-01-31T17:54:05"
+        "time": "2026-01-31T18:05:30"
     },
     "expenses": [
+        {
+            "id": 1,
+            "category": "Dhaki",
+            "subCategory": "bebebe",
+            "totalAmount": "6000",
+            "bookingAmount": "979",
+            "otherContent": "bzbbz",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "1769862749145"
+        }
     ]
 }
