@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T18:27:10"
+        "time": "2026-01-31T18:45:43"
     },
     "expenses": [
         {
@@ -22,6 +22,16 @@
             "otherContent": "vdhe",
             "paymentStatus": "Booking Amount Paid",
             "createdAt": "1769864130747"
+        },
+        {
+            "id": 3,
+            "category": "Bhusi Maal dokan",
+            "subCategory": "dudh guro",
+            "totalAmount": "100",
+            "bookingAmount": "100",
+            "otherContent": "sob done",
+            "paymentStatus": "Full Amount Paid",
+            "createdAt": "1769692524169"
         }
     ]
 }
