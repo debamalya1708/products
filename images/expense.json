@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T18:53:45"
+        "time": "2026-01-31T18:56:49"
     },
     "expenses": [
         {
@@ -32,6 +32,16 @@
             "otherContent": "ffg",
             "paymentStatus": "Booking Amount Paid",
             "createdAt": "1769865802815"
+        },
+        {
+            "id": 4,
+            "category": "Thakur",
+            "subCategory": "hshshs",
+            "totalAmount": "90000",
+            "bookingAmount": "989",
+            "otherContent": "hsbs",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "1769865995979"
         }
     ]
 }
