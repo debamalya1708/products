@@ -1,6 +1,6 @@
 {
     "syncTime": {
-        "time": "2026-01-31T18:52:14"
+        "time": "2026-01-31T18:53:45"
     },
     "expenses": [
         {
@@ -26,12 +26,12 @@
         {
             "id": 3,
             "category": "Bhusi Maal dokan",
-            "subCategory": "dudh guro",
-            "totalAmount": "100",
-            "bookingAmount": "100",
-            "otherContent": "sob done",
-            "paymentStatus": "Full Amount Paid",
-            "createdAt": "1769692524169"
+            "subCategory": "fgbbh",
+            "totalAmount": "5556",
+            "bookingAmount": "258",
+            "otherContent": "ffg",
+            "paymentStatus": "Booking Amount Paid",
+            "createdAt": "1769865802815"
         }
     ]
 }
