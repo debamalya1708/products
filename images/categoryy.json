@@ -1,0 +1,27 @@
+{
+    "syncTime": {
+        "time": "2026-01-31T16:41:39"
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "Dhaki"
+        },
+        {
+            "id": "2",
+            "name": "Thakur"
+        },
+        {
+            "id": "3",
+            "name": "Tamal Electric"
+        },
+        {
+            "id": "4",
+            "name": "Tasa Bajna"
+        },
+        {
+            "id": "5",
+            "name": "Bhusi Maal dokan"
+        }
+    ]
+}
