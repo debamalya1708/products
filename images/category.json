@@ -1,27 +1,27 @@
 {
-  "syncTime": {
-        "time": "2026-01-31T13:42:00"
+    "syncTime": {
+        "time": "2026-01-31T17:53:08"
     },
-  "categories": [
-    {
-      "id": 1,
-      "name": "Dhaki"
-    },
-    {
-      "id": 2,
-      "name": "Thakur"
-    },
-    {
-      "id": 3,
-      "name": "Tamal Electric"
-    },
-    {
-      "id": 4,
-      "name": "Tasa Bajna"
-    },
+    "categories": [
         {
-      "id": 5,
-      "name": "Bhusi Maal dokan"
-    }
-  ]
+            "id": 1,
+            "name": "Dhaki"
+        },
+        {
+            "id": 2,
+            "name": "Thakur"
+        },
+        {
+            "id": 3,
+            "name": "Tamal Electric"
+        },
+        {
+            "id": 4,
+            "name": "Tasa Bajna"
+        },
+        {
+            "id": 5,
+            "name": "Bhusi Maal dokan"
+        }
+    ]
 }
